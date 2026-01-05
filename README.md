@@ -87,7 +87,7 @@ sms-spam-app/
 ## Installation and Execution
 
 1. Clone the repository:
-   git clone https://github.com//task-2_spam_sms_detection.git
+   git clone https://github.com/koushikreddy30-26/task-2_spam_sms_detection.git
 
 2. Navigate to the project directory:
    cd sms-spam-detection
